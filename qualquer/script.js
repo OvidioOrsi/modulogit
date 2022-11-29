@@ -1,1 +1,0 @@
-qualquer conteudo no js
